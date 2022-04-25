@@ -41,3 +41,7 @@ This application covers 4 different scenarios:
 - An agent is used to keep the connection alive: yes | no
 - The agent is kept in memory outside of the api handler and is available during hot starts: yes | no
 
+
+## Results
+
+![](./chart.svg)
